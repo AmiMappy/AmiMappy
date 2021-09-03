@@ -1,13 +1,12 @@
 ### Greetings!
 
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning coding
-- 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help with everything
-- 💬 Ask me about anything
+- 🔭 I’m currently working on nothing much
+- 🌱 I’m currently learning about computers
+- 👯 I’m looking to collaborate on cool projects
+- 🤔 I’m looking for help with many things
 - 📫 How to reach me: you can't
-- 😄 Pronouns: pot/pan
 - ⚡ Fun fact: N/A
+:wq
 
 <!--
 **AmiMappy/AmiMappy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
